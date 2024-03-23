@@ -28,3 +28,18 @@
   box-shadow: 0px 0px 0px 3px #fe9b07;
   /* border: 5px solid #fe9b07; */
 }
+
+
+.Joke {
+  font-size: 2rem;
+  color: #e9dfdf;
+  background: #3d52f3;
+  padding: 1.2rem 2.6rem;
+  border-radius: 0.2rem;
+  transition: opacity .3s;
+}
+
+.Joke:hover {
+  cursor: pointer;
+  background: #a8bcfb;
+}
